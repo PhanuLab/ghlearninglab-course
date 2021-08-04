@@ -1,12 +1,13 @@
-title: GHLearningLab
+title: GH Learning Lab Template Course for SSRU CSLabs
 description: >-
-  631-GHLearningLab template course from github's learning lab for those
-  interested, particularly the ssrucs students enrolling in the courses taught
-  by PhanuLAB staffs from the first semester of 2020 academic year beginning
-  from July 10, 2020 onward.
+  641-GHLearningLab template course from GitHub's learning lab for ssrucs
+  students enrolling in the courses taught by PhanuLAB staffs from the first
+  semester of 2021 academic year beginning from July 12, 2021 onward and for
+  those interested in..
 template:
-  repo: ghlearninglab-template
-  name: ghlearninglab
+  repo: ghlearninglab-ssrucslab
+  name: ssrucslab
+  description: ssrucs computer labs
 before:
   - type: createIssue
     title: Welcome!
